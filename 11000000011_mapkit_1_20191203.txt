@@ -1,0 +1,24 @@
+14:19:20.048-[main] maprouter||TrackUtil||newInstanceTime = 1 ms, initTime = 27
+14:19:20.054-[main] maprouter||MapRouterView||MapRouterView 1构造128304520
+14:19:20.054-[main] maprouter||MapRouterView||mapkit version:2.1.682
+14:19:20.054-[main] maprouter||MapRouterView||mapkit PlatInfo:PlatInfo:(clientVersion=,driverPhoneNumber =,driverTicket =,driverId =0, traverId= ,bizType = 0,countryID= ,countryCode= )
+14:19:20.857-[main] maprouter||TrackUtil||os = android, source = 1
+14:19:20.858-[main] maprouter||MapRouterView||View onCreate
+14:19:20.858-[main] maprouter||MapRouterView||mapkit version:2.1.682
+14:19:21.045-[main] FloatWindow||config from outside, config = , isCurrentOn=true
+14:22:46.422-[main] maprouter||TrackUtil||newInstanceTime = 1 ms, initTime = 8
+14:22:46.429-[main] maprouter||MapRouterView||MapRouterView 1构造26420971
+14:22:46.430-[main] maprouter||MapRouterView||mapkit version:2.1.682
+14:22:46.430-[main] maprouter||MapRouterView||mapkit PlatInfo:PlatInfo:(clientVersion=,driverPhoneNumber =,driverTicket =,driverId =0, traverId= ,bizType = 0,countryID= ,countryCode= )
+14:22:47.298-[main] maprouter||TrackUtil||os = android, source = 1
+14:22:47.298-[main] maprouter||MapRouterView||View onCreate
+14:22:47.298-[main] maprouter||MapRouterView||mapkit version:2.1.682
+14:22:47.547-[main] FloatWindow||config from outside, config = , isCurrentOn=true
+20:22:34.620-[main] maprouter||TrackUtil||newInstanceTime = 0 ms, initTime = 4
+20:22:34.625-[main] maprouter||MapRouterView||MapRouterView 1构造127440153
+20:22:34.625-[main] maprouter||MapRouterView||mapkit version:2.1.682
+20:22:34.626-[main] maprouter||MapRouterView||mapkit PlatInfo:PlatInfo:(clientVersion=,driverPhoneNumber =,driverTicket =,driverId =0, traverId= ,bizType = 0,countryID= ,countryCode= )
+20:22:35.373-[main] maprouter||TrackUtil||os = android, source = 1
+20:22:35.373-[main] maprouter||MapRouterView||View onCreate
+20:22:35.373-[main] maprouter||MapRouterView||mapkit version:2.1.682
+20:22:35.526-[main] FloatWindow||config from outside, config = , isCurrentOn=true

@@ -1,0 +1,24 @@
+06:53:14.610-[main] maprouter||TrackUtil||newInstanceTime = 21 ms, initTime = 32
+06:53:14.620-[main] maprouter||MapRouterView||MapRouterView 1构造11056903
+06:53:14.620-[main] maprouter||MapRouterView||mapkit version:2.1.682
+06:53:14.620-[main] maprouter||MapRouterView||mapkit PlatInfo:PlatInfo:(clientVersion=,driverPhoneNumber =,driverTicket =,driverId =0, traverId= ,bizType = 0,countryID= ,countryCode= )
+06:53:15.437-[main] maprouter||TrackUtil||os = android, source = 1
+06:53:15.438-[main] maprouter||MapRouterView||View onCreate
+06:53:15.438-[main] maprouter||MapRouterView||mapkit version:2.1.682
+06:53:15.650-[main] FloatWindow||config from outside, config = , isCurrentOn=true
+12:58:42.806-[main] maprouter||TrackUtil||newInstanceTime = 1 ms, initTime = 12
+12:58:42.825-[main] maprouter||MapRouterView||MapRouterView 1构造87376051
+12:58:42.825-[main] maprouter||MapRouterView||mapkit version:2.1.682
+12:58:42.825-[main] maprouter||MapRouterView||mapkit PlatInfo:PlatInfo:(clientVersion=,driverPhoneNumber =,driverTicket =,driverId =0, traverId= ,bizType = 0,countryID= ,countryCode= )
+12:58:43.553-[main] maprouter||TrackUtil||os = android, source = 1
+12:58:43.553-[main] maprouter||MapRouterView||View onCreate
+12:58:43.553-[main] maprouter||MapRouterView||mapkit version:2.1.682
+12:58:43.706-[main] FloatWindow||config from outside, config = , isCurrentOn=true
+18:13:21.991-[main] maprouter||TrackUtil||newInstanceTime = 23 ms, initTime = 5
+18:13:22.002-[main] maprouter||MapRouterView||MapRouterView 1构造85608774
+18:13:22.002-[main] maprouter||MapRouterView||mapkit version:2.1.682
+18:13:22.002-[main] maprouter||MapRouterView||mapkit PlatInfo:PlatInfo:(clientVersion=,driverPhoneNumber =,driverTicket =,driverId =0, traverId= ,bizType = 0,countryID= ,countryCode= )
+18:13:22.837-[main] maprouter||TrackUtil||os = android, source = 1
+18:13:22.837-[main] maprouter||MapRouterView||View onCreate
+18:13:22.837-[main] maprouter||MapRouterView||mapkit version:2.1.682
+18:13:23.086-[main] FloatWindow||config from outside, config = , isCurrentOn=true

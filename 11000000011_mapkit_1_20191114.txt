@@ -1,0 +1,16 @@
+08:05:13.235-[main] maprouter||TrackUtil||newInstanceTime = 52 ms, initTime = 12
+08:05:13.241-[main] maprouter||MapRouterView||MapRouterView 构造
+08:05:13.241-[main] maprouter||MapRouterView||mapkit version:2.1.635
+08:05:13.242-[main] maprouter||MapRouterView||mapkit PlatInfo:PlatInfo:(clientVersion=,driverPhoneNumber =,driverTicket =,driverId =0, traverId= ,bizType = 0,countryID= ,countryCode= )
+08:05:14.130-[main] maprouter||TrackUtil||os = android, source = 1
+08:05:14.131-[main] maprouter||MapRouterView||View onCreate
+08:05:14.132-[main] maprouter||MapRouterView||mapkit version:2.1.635
+08:05:14.355-[main] FloatWindow||config from outside, config = , isCurrentOn=true
+12:05:23.815-[main] maprouter||TrackUtil||newInstanceTime = 5 ms, initTime = 16
+12:05:23.833-[main] maprouter||MapRouterView||MapRouterView 构造
+12:05:23.834-[main] maprouter||MapRouterView||mapkit version:2.1.635
+12:05:23.834-[main] maprouter||MapRouterView||mapkit PlatInfo:PlatInfo:(clientVersion=,driverPhoneNumber =,driverTicket =,driverId =0, traverId= ,bizType = 0,countryID= ,countryCode= )
+12:05:25.404-[main] maprouter||TrackUtil||os = android, source = 1
+12:05:25.404-[main] maprouter||MapRouterView||View onCreate
+12:05:25.404-[main] maprouter||MapRouterView||mapkit version:2.1.635
+12:05:25.749-[main] FloatWindow||config from outside, config = , isCurrentOn=true

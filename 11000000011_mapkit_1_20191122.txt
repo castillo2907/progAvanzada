@@ -1,0 +1,24 @@
+10:26:13.497-[main] maprouter||TrackUtil||newInstanceTime = 32 ms, initTime = 19
+10:26:13.523-[main] maprouter||MapRouterView||MapRouterView 构造
+10:26:13.524-[main] maprouter||MapRouterView||mapkit version:2.1.635
+10:26:13.524-[main] maprouter||MapRouterView||mapkit PlatInfo:PlatInfo:(clientVersion=,driverPhoneNumber =,driverTicket =,driverId =0, traverId= ,bizType = 0,countryID= ,countryCode= )
+10:26:14.341-[main] maprouter||TrackUtil||os = android, source = 1
+10:26:14.341-[main] maprouter||MapRouterView||View onCreate
+10:26:14.341-[main] maprouter||MapRouterView||mapkit version:2.1.635
+10:26:14.467-[main] FloatWindow||config from outside, config = , isCurrentOn=true
+15:39:20.773-[main] maprouter||TrackUtil||newInstanceTime = 1 ms, initTime = 5
+15:39:20.776-[main] maprouter||MapRouterView||MapRouterView 构造
+15:39:20.777-[main] maprouter||MapRouterView||mapkit version:2.1.635
+15:39:20.777-[main] maprouter||MapRouterView||mapkit PlatInfo:PlatInfo:(clientVersion=,driverPhoneNumber =,driverTicket =,driverId =0, traverId= ,bizType = 0,countryID= ,countryCode= )
+15:39:21.581-[main] maprouter||TrackUtil||os = android, source = 1
+15:39:21.581-[main] maprouter||MapRouterView||View onCreate
+15:39:21.581-[main] maprouter||MapRouterView||mapkit version:2.1.635
+15:39:21.777-[main] FloatWindow||config from outside, config = , isCurrentOn=true
+21:36:01.290-[main] maprouter||TrackUtil||newInstanceTime = 0 ms, initTime = 5
+21:36:01.296-[main] maprouter||MapRouterView||MapRouterView 构造
+21:36:01.296-[main] maprouter||MapRouterView||mapkit version:2.1.635
+21:36:01.296-[main] maprouter||MapRouterView||mapkit PlatInfo:PlatInfo:(clientVersion=,driverPhoneNumber =,driverTicket =,driverId =0, traverId= ,bizType = 0,countryID= ,countryCode= )
+21:36:02.121-[main] maprouter||TrackUtil||os = android, source = 1
+21:36:02.121-[main] maprouter||MapRouterView||View onCreate
+21:36:02.121-[main] maprouter||MapRouterView||mapkit version:2.1.635
+21:36:02.288-[main] FloatWindow||config from outside, config = , isCurrentOn=true
